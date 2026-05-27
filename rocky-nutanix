@@ -7,3 +7,9 @@ rocky-x-6.lab.local
 rocky-x-7.lab.local
 rocky-x-8.lab.local
 rocky-x-9.lab.local
+
+
+
+[tomcat_servers]
+rocky-x-2.lab.local
+rocky-x-8.lab.local
